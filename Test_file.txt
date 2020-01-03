@@ -1,1 +1,5 @@
 Test 1
+
+npm init
+
+npm i --save-dev eslint babel-eslint eslint-plugin-react
