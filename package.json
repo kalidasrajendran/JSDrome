@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/kalidasrajendran/JSDrome#readme",
   "devDependencies": {
+    "@commitlint/cli": "^8.3.4",
+    "@commitlint/config-conventional": "^8.3.4",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.8.0",
-    "eslint-plugin-react": "^7.17.0"
+    "eslint-plugin-react": "^7.17.0",
+    "husky": "^3.1.0"
   }
 }
