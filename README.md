@@ -5,3 +5,7 @@
 - Commitlint
 - Readme / Markdown
 - React entry point
+- Babel
+- Webpack
+    - Webpack dev
+    - 

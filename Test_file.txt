@@ -7,3 +7,14 @@ npm i --save-dev eslint babel-eslint eslint-plugin-react
 npm install --save-dev @commitlint/config-conventional @commitlint/cli husky
 
 git commit -m "feat: husky added"
+
+npx webpack --env=prod --config=_webpack/webpack.config.js
+npx webpack --env=dev --config=_webpack/webpack.config.js
+npx webpack-dev-server --open --env=dev --config=_webpack/webpack.config.js
+
+
+// Install react
+npm i react
+
+
+npm install -g http-server
