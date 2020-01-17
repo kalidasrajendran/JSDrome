@@ -12,9 +12,7 @@ npx webpack --env=prod --config=_webpack/webpack.config.js
 npx webpack --env=dev --config=_webpack/webpack.config.js
 npx webpack-dev-server --open --env=dev --config=_webpack/webpack.config.js
 
-
 // Install react
 npm i react
-
 
 npm install -g http-server
